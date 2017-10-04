@@ -1,4 +1,4 @@
-;;; CS450 HW2 by Jiaan Tan
+;;; by Jiaan Tan
 
 ;;; 1.
 ;;
