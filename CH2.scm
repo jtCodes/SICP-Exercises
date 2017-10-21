@@ -89,7 +89,7 @@
 ;; #t
 ;; ==> (my-equal? '(this is a list) '(this (is a) list))
 ;; #f
-
+;;NEEDS FIX
 (define (my-equal? item1 item2)
   (cond ((and (list? item1) (list? item2))
          (if (null? (or (cdr item1) (cdr item2)))         ;end of either list
